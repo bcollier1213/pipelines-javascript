@@ -1,8 +1,5 @@
 https://dev.azure.com/mvptesting/MvpTesting/_apis/build/status/bcollier1213.pipelines-javascript?branchName=master
 [![Build Status](https://dev.azure.com/mvptesting/MvpTesting/_apis/build/status/bcollier1213.pipelines-javascript?branchName=master)](https://dev.azure.com/mvptesting/MvpTesting/_build/latest?definitionId=4&branchName=master)
-(https://dev.azure.com/mvptesting/MvpTesting/_apis/build/status/bcollier1213.pipelines-javascript?branchName=master)
-
-[![Build Status](https://dev.azure.com/mvptesting/MvpTesting/_apis/build/status/bcollier1213.pipelines-javascript?branchName=master)](https://dev.azure.com/mvptesting/MvpTesting/_apis/build/status/bcollier1213.pipelines-javascript?branchName=master)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
